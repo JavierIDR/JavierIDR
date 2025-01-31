@@ -1,7 +1,7 @@
-¡Hola! 👋 Soy Javier  
-Soy un apasionado desarrollador fullstack de Córdoba, Argentina. Me encanta crear aplicaciones web innovadoras y resolver problemas desafiantes con tecnología.
+Hi! 👋 I’m Javier
+I’m a passionate Full Stack Developer, specializing in backend, from Córdoba, Argentina. I love building innovative web applications and solving challenging problems using technologies like Node.js, NestJS, and Prisma. Always looking for dynamic projects that allow me to grow and contribute effective solutions.
 
-📫 Conéctate conmigo:  
+📫 Let's connect:
 LinkedIn: [Javier Del Rio](https://www.linkedin.com/in/javier-del-rio-7a9276306/?trk=opento_sprofile_details)  
 Email: javier.ignaciodr1@gmail.com  
  
@@ -18,7 +18,7 @@ Email: javier.ignaciodr1@gmail.com
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="80" height="80" style="margin: 0 15px;" />  
 </div>
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta, no dudes en contactarme.
+Thanks for visiting my profile! If you have any questions or a project in mind, feel free to reach out. I'm always ready for new challenges.
 
 
 

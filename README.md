@@ -5,7 +5,7 @@ I’m a passionate Full Stack Developer, specializing in backend, from Córdoba,
 LinkedIn: [Javier Del Rio](https://www.linkedin.com/in/javier-del-rio-7a9276306/?trk=opento_sprofile_details)  
 Email: javier.ignaciodr1@gmail.com  
  
-🛠️ Lenguajes y Herramientas que utilizo:  
+🛠️ Languages and Tools I work with: 
 <div style="display: flex; justify-content: space-around;">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="80" height="80" style="margin: 0 15px;" />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="80" height="80" style="margin: 0 15px;" />  

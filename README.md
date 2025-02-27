@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Javi
 
 ## 🚀 About Me
-I’m a passionate Full Stack Developer, specializing in backend, from Córdoba, Argentina. I love building innovative web applications and solving challenging problems using technologies like Node.js, NestJS, and Prisma. Always looking for dynamic projects that allow me to grow and contribute effective solutions.
+I'm a results-driven Full Stack Developer with a strong focus on backend technologies, based in Córdoba, Argentina. I specialize in building scalable and high-performance web applications using technologies like Node.js, NestJS, and Prisma. I thrive in dynamic projects where I can solve complex challenges, drive innovation, and continuously evolve as a developer.
 
 ## 🛠️ Languages and Tools I Work With:
 - 🖥️ **Languages:** JavaScript, TypeScript, Python

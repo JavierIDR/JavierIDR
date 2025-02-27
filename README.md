@@ -1,26 +1,38 @@
-# 👋 Hi, I'm Javi
+# 👋 Hi, I'm Javier  
 
-## 🚀 About Me
-I'm a results-driven Full Stack Developer with a strong focus on backend technologies, based in Córdoba, Argentina. I specialize in building scalable and high-performance web applications using technologies like Node.js, NestJS, and Prisma. I thrive in dynamic projects where I can solve complex challenges, drive innovation, and continuously evolve as a developer.
+## 🚀 About Me  
+I'm a results-driven Full Stack Developer with a strong focus on backend technologies, based in Córdoba, Argentina. I specialize in building scalable and high-performance web applications using technologies like **Node.js**, **NestJS**, and **Prisma**. I thrive in dynamic projects where I can solve complex challenges, drive innovation, and continuously evolve as a developer.  
 
-## 🛠️ Languages and Tools I Work With:
-- 🖥️ **Languages:** JavaScript, TypeScript, Python
-- ⚛️ **Frontend:** React, Redux
-- 🛠️ **Backend:** Node.js, NestJS, Express
-- 🗄️ **Databases:** PostgreSQL, Prisma, TypeORM
-- 🔑 **Authentication & Security:** JWT, OAuth, Google Auth
-- 📡 **API & Architecture:** REST, GraphQL, WebSockets
-- 🔍 **Search & Pagination:** Prisma Filters, Dynamic Pagination
-- 📢 **Notifications:** WebSockets, Notification System in NestJS
-- ☁️ **Cloud & DevOps:** AWS, Cloudinary, Docker
-- 🛒 **E-commerce & Advanced Features:** Shopping Cart, Favorites, Roles & Permissions, User & Review Management
+## 🛠️ Languages and Tools I Work With  
 
-## 📫 Want to Get in Touch?
-If you’d like to collaborate on a project or just chat about tech, you can find me at:
-- 🔗 **LinkedIn:** [Javier Del Rio](https://www.linkedin.com/in/javier-ignacio-del-rio-7a9276306/)
-- ✉️ **Email:** javier.ignaciodr1@gmail.com
+### 🖥️ Languages  
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |  
 
-Thanks for visiting my profile! If you have any questions or a project in mind, feel free to reach out. I'm always ready for new challenges.
+### ⚛️ Frontend  
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) |  
+
+### 🛠️ Backend  
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |  
+
+### 🗄️ Databases  
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) | ![TypeORM](https://img.shields.io/badge/TypeORM-FF5733?style=for-the-badge) |  
+
+### 🔑 Authentication & Security  
+| ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) | ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white) |  
+
+### 📡 API & Architecture  
+| ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![WebSockets](https://img.shields.io/badge/WebSockets-0082C9?style=for-the-badge) |  
+
+### ☁️ Cloud & DevOps  
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  
+
+## 📫 Want to Get in Touch?  
+If you’d like to collaborate on a project or just chat about tech, you can find me at:  
+- 🔗 **LinkedIn:** [Javier Del Rio](https://www.linkedin.com/in/javier-ignacio-del-rio-7a9276306/)  
+- ✉️ **Email:** javier.ignaciodr1@gmail.com  
+
+Feel free to reach out—whether you have a project in mind or just want to chat about tech! 🚀  
+
 
 
 

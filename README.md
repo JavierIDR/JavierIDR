@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Javier  
 
 ## 🚀 About Me  
-I'm a results-driven Full Stack Developer with a strong focus on backend technologies, based in Córdoba, Argentina. I specialize in building scalable and high-performance web applications using technologies like **Node.js**, **NestJS**, and **Prisma**. I thrive in dynamic projects where I can solve complex challenges, drive innovation, and continuously evolve as a developer.  
+I'm a Full Stack Developer from Córdoba, Argentina, with a strong focus on backend technologies. I build scalable, high-performance web applications using technologies such as Node.js, NestJS, and Prisma. I thrive in fast-paced environments where I can tackle complex challenges, optimize system performance, and continuously refine my skills. 
 
 ## 🛠️ Languages and Tools I Work With  
 

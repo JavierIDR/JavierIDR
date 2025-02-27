@@ -20,9 +20,6 @@ I'm a results-driven Full Stack Developer with a strong focus on backend technol
 ### 🔑 Authentication & Security  
 | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) | ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white) |  
 
-### 📡 API & Architecture  
-| ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![WebSockets](https://img.shields.io/badge/WebSockets-0082C9?style=for-the-badge) |  
-
 ### ☁️ Cloud & DevOps  
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |  
 

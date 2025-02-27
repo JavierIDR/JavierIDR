@@ -17,7 +17,7 @@ I’m a passionate Full Stack Developer, specializing in backend, from Córdoba,
 
 ## 📫 Want to Get in Touch?
 If you’d like to collaborate on a project or just chat about tech, you can find me at:
-- 🔗 **LinkedIn:** [Javier Del Rio](https://www.linkedin.com/in/javier-del-rio-7a9276306/?trk=opento_sprofile_details)
+- 🔗 **LinkedIn:** [Javier Del Rio](https://www.linkedin.com/in/javier-ignacio-del-rio-7a9276306/)
 - ✉️ **Email:** javier.ignaciodr1@gmail.com
 
 Thanks for visiting my profile! If you have any questions or a project in mind, feel free to reach out. I'm always ready for new challenges.

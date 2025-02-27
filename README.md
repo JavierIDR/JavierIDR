@@ -2,6 +2,7 @@
 
 ## 🚀 About Me  
 I'm a Full Stack Developer from Córdoba, Argentina, with a strong focus on backend technologies. I build scalable, high-performance web applications using technologies such as Node.js, NestJS, and Prisma. I thrive in fast-paced environments where I can tackle complex challenges, optimize system performance, and continuously refine my skills. 
+
 Currently, I'm expanding my skill set by learning AI for developers and exploring how to integrate artificial intelligence into modern applications.
 
 ## 🛠️ Languages and Tools I Work With  

@@ -2,7 +2,7 @@
 
 ### Full Stack Developer · Backend Focus
 
-I build scalable backend services, APIs, integrations, and modern web applications, 
+I build scalable backend services, APIs, integrations, and modern web applications,
 with a strong focus on **TypeScript, Node.js, and NestJS**.
 
 Currently working in the **Fintech & Payments** space, developing and integrating
@@ -46,13 +46,15 @@ engineering practices with AI to build intelligent, production-ready application
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
 
 ## ⚡ What I Work With
 
 `REST APIs` · `Third-party Integrations` · `Authentication & Authorization`  
-`WebSockets` · `Fintech` · `Payments` · `Crypto Infrastructure` · `Compliance`
+`WebSockets` · `Fintech` · `Payments` · `Banking APIs`  
+`Crypto Infrastructure` · `Custody` · `Compliance` · `E-commerce`
 
 ---
 
@@ -67,7 +69,7 @@ scalable, and production-ready software.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Del_Rio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-ignacio-del-rio-7a9276306/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Del_Rio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierdel-rio/)
 
 📧 **Email:** javier.ignaciodr1@gmail.com
 
